@@ -4,4 +4,4 @@ on:
 jobs:
   main:
     name: ReSpec
-    uses: Logius-standaarden/Automatisering/.github/workflows/respec.yml@main
+    uses: Logius-standaarden/Automatisering/.github/workflows/respec.yml@master
