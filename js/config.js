@@ -1,7 +1,7 @@
 var respecConfig = {
-  //voor specStatus mogelijkheden zie https://github.com/centrumvoorstandaarden/respec/wiki/specStatus
-  specStatus: "WV",
-  //voor specType mogelijkheden zie https://github.com/centrumvoorstandaarden/respec/wiki/specType
+  //voor specStatus mogelijkheden zie https://github.com/Logius-standaarden/respec/wiki/specStatus
+  specStatus: "CV",
+  //voor specType mogelijkheden zie https://github.com/Logius-standaarden/respec/wiki/specType
   specType: "HR",
   // TODO: Standaard emailadres bij een consultatieversie: geo-standaarden@geonovum.nl
   // TODO: Geef bij emailComments een ander emailadres op als dat gewenst is.
@@ -51,17 +51,12 @@ var respecConfig = {
       companyURL: "https://www.utwente.nl/",
     },
     {
+      name: "Wouter van den Berg",
+      company: "TNO",
+      companyURL: "https://www.tno.nl/",
+    },
+    {
       name: "Sander Boer",
-      company: "Logius",
-      companyURL: "http://www.logius.nl/",
-    },
-    {
-      name: "Erwin Kaats",
-      company: "Logius",
-      companyURL: "http://www.logius.nl/",
-    },
-    {
-      name: "Edwin Wisse",
       company: "Logius",
       companyURL: "http://www.logius.nl/",
     }
