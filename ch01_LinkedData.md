@@ -47,8 +47,6 @@ De *I* in FAIR onderstreept het belang van geautomatiseerde data-interoperabilit
 
 Voor het implementeren van de Interoperability principes van FAIR wordt veel gebruik gemaakt van ontologiën (voor punt 1) en andere Linked Data standaarden (voor punten 2 en 3).
 
-<p class="comment" style="color:red">Hier nog een of twee FAIR pareltjes </p>  
-
 Links:  
 https://www.nature.com/articles/sdata201618 (*het* wetenschappelijk artikel over FAIR)  
 https://www.go-fair.org/fair-principles/ (de FAIR-principes)
