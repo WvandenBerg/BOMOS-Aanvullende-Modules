@@ -27,14 +27,14 @@ Deze principes staan aan de basis van de afspraken en regels over de onderstaand
 -	Architectuur en techniek: denk hierbij aan technische standaarden, use-cases en interface beschrijvingen.
 
 ### Voorbeeld van een afsprakenstelsel: Medmij
-![medmij afsprakenstelsel 4 cornermodel](images/medmij_afsprakenstelsel.png "Medmij afsprakenstelsel 4 corner model")
 
-*Figuur 1: scope afsprakenstelsel Medmij*
+![medmij afsprakenstelsel 4 cornermodel](images/medmij_afsprakenstelsel.png "Medmij afsprakenstelsel 4 corner model")
 
 Het afsprakenstelsel Medmij maakt het mogelijk dat de eindgebruiker de gezondheidsinformatie in de persoonlijke gezondsheidsomgeving veilig en betrouwbaar kan delen met zorgaanbieders zoals een apotheek of ziekenhuis. Hierbij kiezen de eindgebruikers een partij die de gezondheidsomgeving levert en ziekenhuizen een partij die ze op het Medmij netwerk aansluit. Het afsprakenstelsel zorgt voor de voorwaarden van veilig en betrouwbare uitwisseling en ook de technische voorzieningen om dit te operationaliseren. De scope van het afsprakenstelsel is het vlak waar de dienstverlener van de eindgebruiker samen gaat werken met de dienstverlener van de zorgaanbieder. Er zijn meerdere dienstverleners aan beide kanten en dankzij het stelsel blijft de complexiteit beperkt en werken de diensten en producten goed met elkaar samen.  
 Deze opzet wordt  ook wel het “four corner” model genoemd; eindgebruikers zijn in dit geval via een eigen broker verbonden met andere deelnemers in het stelsel. Merk op: er zijn ook andere configuraties binnen een afsprakenstelsel mogelijk, zoals met een centrale voorziening (3-corner) of een extra afslag voor bijvoorbeeld transactie gedreven verantwoordingsinformatie (5-corner).
 
 ## Hoe is BOMOS als best practice inzetbaar voor het beheer van afsprakenstelsels?
+
 Afsprakenstelsels zonder standaarden bestaan niet.... Standaarden staan aan de basis van het mogelijk maken van interoperabiliteit en samenwerking. Het lijkt dus op een bundeling van standaarden met daarbij een belangrijke toevoeging: bij een stelsel zijn er ook afspraken gemaakt over het operationaliseren van samenwerking om een product of dienst aan te bieden.
 Voor een groot deel komt het beheer van een afsprakenstelsel en van een standaard goed overeen en maakt BOMOS prima toepasbaar voor deze bredere scope. De BOMOS activiteiten zijn binnen stelsels ook goed herkenbaar en toe te passen met hier en daar een uitzondering of afwijking. Net zoals bij het beheer van een standaard zijn er bij stelsels activiteiten gericht op het organiseren van de besturing, de doorontwikkeling, het beheren van centrale voorzieningen, het helpen bij aansluiten en promotie van gebruik.
 
@@ -46,6 +46,7 @@ De uitkomst van een assessment helpt om in een korte termijn te komen tot een do
 Het BOMOS fundament is goed toepasbaar voor het inrichten van beheer van nieuwe afsprakenstelsels. BOMOS helpt dan om een programma of opdrachtgever een beeld te schetsen welke activiteiten ingeregeld moeten gaan worden en waarom. Dit beeld helpt bij het prioriteren en inplannen van het inregelen van beheeractiviteiten en het maken van de inschatting van de hiervoor benodigde middelen.
 
 ## BOMOS toegepast op afsprakenstelsels
+
 ![BOMOS model](images/bomos_activiteiten.png "BOMOS activiteiten")
 
 ## Strategie
