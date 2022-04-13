@@ -54,11 +54,6 @@ var respecConfig = {
       companyURL: "https://www.utwente.nl/",
     },
     {
-      name: "Erwin Kaats.",
-      company: "Logius",
-      companyURL: "https://www.logius.nl/",
-    },
-        {
       name: "Edwin Wisse",
       company: "Logius",
       companyURL: "https://www.logius.nl/",
